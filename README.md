@@ -1,4 +1,10 @@
-<h1 align="center">Mihailo Ranitovic</h1>
+<h1 align="center">Hi, I'm Mihailo Ranitovic 👋</h1>
+
+<p align="center">
+  <a href="https://github.com/mranitovic">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+React+Native+Developer;SaaS+%26+MVP+Builder;AI-Powered+Product+Developer;Python+Backend+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <em>Building SaaS & AI-powered products — from MVP to production</em>
