@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="./header.svg" alt="Mihailo Ranitovic" width="100%"/>
-</div>
-
+<h1 align="center">Hi, I'm Mihailo Ranitovic</h1>
 <p align="center">
   <a href="https://github.com/mranitovic">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+React+Native+Developer;SaaS+%26+MVP+Builder;AI-Powered+Product+Developer;Python+Backend+Developer" alt="Typing SVG" />
