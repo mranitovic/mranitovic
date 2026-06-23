@@ -183,15 +183,4 @@
     <tspan fill="#61DAFB">React</tspan><tspan fill="#3a3f47"> · </tspan><tspan fill="#a855f7">React Native</tspan><tspan fill="#3a3f47"> · </tspan><tspan fill="#FFD43B">Python</tspan><tspan fill="#3a3f47"> · </tspan><tspan fill="#f97316">AI-Powered Products</tspan>
   </text>
 
-  <!-- Country — subtle red/blue gradient feel -->
-  <text x="640" y="172"
-        text-anchor="middle"
-        font-family="'Segoe UI', Arial, sans-serif"
-        font-size="11"
-        fill="#C6363C"
-        font-weight="500"
-        letter-spacing="4">
-    ✦  SERBIA  ✦
-  </text>
-
 </svg>
