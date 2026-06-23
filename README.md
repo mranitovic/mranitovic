@@ -2,7 +2,7 @@
 <!-- 🌊 WAVE HEADER                                                        -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mihailo%20Ranitovic&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20%7C%20SaaS%20Builder%20%7C%20AI-Powered%20Products&descAlignY=58&descColor=a9b1d6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mihailo%20Ranitovic&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20SaaS%20Developer%20%7C%20Web%20%26%20Mobile%20%7C%20AI-Powered%20Products&descAlignY=58&descColor=a9b1d6" width="100%"/>
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <a href="https://github.com/mranitovic">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;React+%26+React+Native+Engineer+%F0%9F%93%B1;SaaS+%26+MVP+Builder+%E2%9A%A1;AI-Powered+Product+Developer+%F0%9F%A4%96;Shipping+Fast+from+0+to+1+%F0%9F%8E%AF" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+SaaS+Developer+%F0%9F%9A%80;React+%26+React+Native+Engineer+%F0%9F%93%B1;Fast+Web+%26+Mobile+App+Builder+%E2%9A%A1;AI-Powered+Product+Developer+%F0%9F%A4%96;Shipping+from+0+to+1+%F0%9F%8E%AF" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -29,7 +29,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/mranitovic?tab=repositories">
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmranitovic&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=7c3aed&labelColor=0d1117" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fmranitovic&query=%24.public_repos&suffix=%20Repos&label=Public&style=flat-square&color=7c3aed&labelColor=0d1117" alt="Repositories"/>
 </a>
 &nbsp;
 <a href="https://github.com/mranitovic?tab=followers">
@@ -42,13 +42,13 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 👤 ABOUT ME                                                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 <br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME                                                           -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
 ### 👤 About Me
 
@@ -58,17 +58,18 @@
 
 ```yaml
 name: Mihailo Ranitovic
-role: Full-Stack Developer
-specialty:
-  - 🚀 SaaS & MVP Products
-  - 🤖 AI-Powered Applications
-  - 📱 React & React Native
-  - 🐍 Python Backends
-  - 💳 Full-Product Delivery
+github: mranitovic
+role: Full Stack SaaS Developer
+stack:
+  - ⚛️  React & React Native
+  - 🐍  Python
+  - 🌐  Next.js / Node.js
+  - 🗄️  PostgreSQL / Supabase
+  - 💳  Stripe / Shopify
 ai_tools_daily:
   - Claude
   - Cursor
-  - OpenAI / GPT-4
+  - OpenAI
 motto: "Ship fast. Iterate. Scale."
 ```
 
@@ -76,17 +77,16 @@ motto: "Ship fast. Iterate. Scale."
 <td width="45%" valign="top">
 
 ### 🎯 What I Ship
-- ⚡ **MVPs** from zero to live in days
-- 🧠 **AI features** — LLMs, agents, RAG
-- 📱 **Cross-platform** apps (web + mobile)
+- ⚡ **MVPs** from zero to live fast
+- 🤖 **AI features** — LLMs & agents
+- 📱 **Cross-platform** web + mobile apps
 - 💳 **Full products** — auth, payments, deploy
-- 🔗 **Integrations** — Stripe, Supabase, AWS
+- 🔗 **Integrations** — Stripe, Supabase, Shopify
 
 <br/>
 
 ### ⚡ How I Work
-- 🤖 AI-assisted development workflow
-- 🏗️ Architecture-first, then speed
+- 🤖 AI-assisted dev (Claude, Cursor, OpenAI)
 - 🔁 Continuous delivery mindset
 - 🌱 Always building, always learning
 
@@ -210,11 +210,7 @@ motto: "Ship fast. Iterate. Scale."
 
 <p>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django"/></a>
-  <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask&theme=dark" alt="Flask"/></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL"/></a>
-  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase"/></a>
-  <a href="https://redis.io/"><img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis"/></a>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
@@ -235,7 +231,6 @@ motto: "Ship fast. Iterate. Scale."
 <p>
   <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS"/></a>
   <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel"/></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git"/></a>
 </p>
 <p>
