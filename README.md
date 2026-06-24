@@ -14,11 +14,6 @@
 <a href="https://portfolio-mihailo.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" />
 </a>
-<a href="https://github.com/mranitovic?tab=repositories" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" />
-</a>
-
-
 </div>
 
 ---
